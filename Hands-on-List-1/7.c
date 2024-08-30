@@ -1,7 +1,11 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 7*/
-
+/*
+============================================================================
+Name : 7.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to copy file1 into file2 ($cp file1 file2).
+Date: 28th Aug, 2024.
+============================================================================
+*/
 #include<unistd.h>
 #include<fcntl.h>
 #include<stdio.h>

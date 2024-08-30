@@ -1,7 +1,12 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 8*/
-
+/*
+============================================================================
+Name : 8.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to open a file in read only mode, read line by line and display each line as it is read.
+Close the file when end of file is reached.
+Date: 28th Aug, 2024.
+============================================================================
+*/
 #include<stdio.h>
 #include<unistd.h>
 #include<errno.h>

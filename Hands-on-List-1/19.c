@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 19
+============================================================================
+Name : 19.c
+Author : Purnendu Bhatt
+Description : Write a program to find out time taken to execute getpid system call. Use time stamp counter.
+Date: 28th Aug, 2024.
+============================================================================
 */
 
 
@@ -29,4 +32,5 @@ int main() {
 }
 /*
 Time taken by getpid: 5510 cycles
-*/
+*/nice command.
+Date: 28th Aug, 2024.

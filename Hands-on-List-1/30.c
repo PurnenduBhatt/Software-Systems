@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 30
+============================================================================
+Name : 30.c
+Author : Purnendu Bhatt
+Description : Write a program to run a script at a specific time using a Daemon process.
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<unistd.h>
 #include<stdio.h>

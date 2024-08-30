@@ -1,7 +1,11 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 25
+============================================================================
+Name : 25.c
+Author : Purnendu Bhatt
+Description : Write a program to create three child processes. The parent should wait for a particular child (use
+waitpid system call).
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<stdio.h>
 #include <sys/wait.h>

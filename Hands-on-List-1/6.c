@@ -1,6 +1,11 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 6*/
+/*
+============================================================================
+Name : 6.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to take input from STDIN and display on STDOUT. Use only read/write system calls
+Date: 28th Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<unistd.h>

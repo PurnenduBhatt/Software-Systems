@@ -1,9 +1,11 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 20
+============================================================================
+Name : 20.c
+Author : Purnendu Bhatt
+Description : Find out the priority of your running program. Modify the priority with nice command.
+Date: 28th Aug, 2024.
+============================================================================
 */
-
 #include<stdlib.h>
 #include<unistd.h>
 #include<stdio.h>

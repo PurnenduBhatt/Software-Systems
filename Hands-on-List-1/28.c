@@ -1,9 +1,11 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 28
+============================================================================
+Name : 28.c
+Author : Purnendu Bhatt
+Description : Write a program to get maximum and minimum real time priority.
+Date: 28th Aug, 2024.
+============================================================================
 */
-
 
 #include<sched.h>
 #include<stdio.h>

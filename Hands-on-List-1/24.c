@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 24
+============================================================================
+Name : 24.c
+Author : Purnendu Bhatt
+Description : Write a program to create an orphan process.
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include <unistd.h>    
 #include <stdio.h>     
@@ -22,7 +25,8 @@ void main()
     {
         printf("Child PID: %d\n", getpid());
         printf("Putting child to sleep for 100s!\n");
-        sleep(100); 
+        sleep(30); 
+        printf("Child PID after becoming orphan: %d\n", getpid());
         printf("Child is now awake!\n");
     }
 }

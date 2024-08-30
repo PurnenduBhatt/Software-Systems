@@ -1,8 +1,10 @@
-
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 23
+============================================================================
+Name : 23.c
+Author : Purnendu Bhatt
+Description : Write a program to create a Zombie state of the running program.
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<unistd.h>
 #include<stdio.h>

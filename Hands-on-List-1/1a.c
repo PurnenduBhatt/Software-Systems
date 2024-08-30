@@ -1,6 +1,12 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 1a*/
+/*
+============================================================================
+Name : 1a.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to create the following types of a files using (i) shell command (ii) system call
+a. soft link (symlink system call)
+Date: 28th Aug, 2024.
+============================================================================
+*/
 
 
 #include<stdio.h>

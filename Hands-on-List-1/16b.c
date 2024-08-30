@@ -1,9 +1,12 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 16b
+============================================================================
+Name : 16b.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style to perform mandatory locking.
+b. Implement read lock
+Date: 28th Aug, 2024.
+============================================================================
 */
-
 #include<stdio.h>
 #include<fcntl.h>
 #include<unistd.h>

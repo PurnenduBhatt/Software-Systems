@@ -1,9 +1,13 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 14
+============================================================================
+Name : 14.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to find the type of a file.
+a. Input should be taken from command line.
+b. program should be able to identify any type of a file.
+Date: 28th Aug, 2024.
+============================================================================
 */
-
 
 #include<sys/stat.h>//for fstat
 #include<fcntl.h>//for open

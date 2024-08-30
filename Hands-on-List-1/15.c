@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 15
+============================================================================
+Name : 15.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to display the environmental variable of the user (use environ).
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include <stdio.h> // Import for `NULL`, `environ`
 

@@ -1,6 +1,12 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 5*/
+/*
+============================================================================
+Name : 5.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to create five new files with infinite loop. Execute the program in the background
+and check the file descriptor table at /proc/pid/fd.
+Date: 28th Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<fcntl.h>

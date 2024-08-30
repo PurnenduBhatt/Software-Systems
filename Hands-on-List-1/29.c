@@ -1,7 +1,11 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 29
+============================================================================
+Name : 29.c
+Author : Purnendu Bhatt
+Description : Write a program to get scheduling policy and modify the scheduling policy (SCHED_FIFO,
+SCHED_RR).
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<sched.h>
 #include<stdio.h>

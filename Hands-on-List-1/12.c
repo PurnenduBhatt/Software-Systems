@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 12
+============================================================================
+Name : 12.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to find out the opening mode of a file. Use fcntl.
+Date: 28th Aug, 2024.
+============================================================================
 */
 
 

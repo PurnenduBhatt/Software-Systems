@@ -1,7 +1,12 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 11b
+============================================================================
+Name : 11b.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to open a file, duplicate the file descriptor and append the file with both the
+descriptors and check whether the file is updated properly or not..
+b. use dup2
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<fcntl.h>
 #include<unistd.h>

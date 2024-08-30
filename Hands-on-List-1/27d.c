@@ -1,8 +1,11 @@
-
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 27d
+============================================================================
+Name : 27d.c
+Author : Purnendu Bhatt
+Description : Write a program to execute ls -Rl by the following system calls
+d. execv
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include <unistd.h> 
 #include <stdio.h>  

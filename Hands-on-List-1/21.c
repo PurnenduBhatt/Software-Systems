@@ -1,7 +1,10 @@
 /*
-Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 21
+============================================================================
+Name : 21.c
+Author : Purnendu Bhatt
+Description : Write a program, call fork and print the parent and child process id.
+Date: 28th Aug, 2024.
+============================================================================
 */
 #include<unistd.h>
 #include<stdio.h>

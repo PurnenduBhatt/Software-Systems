@@ -1,7 +1,12 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 1c*/
-
+/*
+============================================================================
+Name : 1c.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to create the following types of a files using (i) shell command (ii) system call
+c. FIFO (mkfifo Library Function or mknod system call)
+Date: 28th Aug, 2024.
+============================================================================
+*/
 
 #include<stdio.h>
 #include<sys/types.h>

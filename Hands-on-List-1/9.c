@@ -1,6 +1,21 @@
-/*Name: Purnendu Bhatt
-Roll No-MT2024031
-Question 9*/
+/*
+============================================================================
+Name : 9.c
+Author : Purnendu Bhatt
+Description : Write a C, Ansi-style program to to print the following information about a given file.
+a. inode
+b. number of hard links
+c. uid
+d. gid
+e. size
+f. block size
+g. number of blocks
+h. time of last access
+i. time of last modification
+j. time of last change
+Date: 28th Aug, 2024.
+============================================================================
+*/
 
 #include<sys/stat.h>
 #include<stdio.h>
