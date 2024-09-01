@@ -9,10 +9,12 @@ Date: 28th Aug, 2024.
 */
 #include<stdio.h>
 #include <sys/wait.h>
+#include<sys/types.h>
 #include<unistd.h>
 int main()
 {
-    int childa,childb,childc,terminatedchild,waitstatus;
+    pid_t childa,childb,childc,terminatedchild;
+    int waitstatus;
       if ((childa = fork()) == 0)
     {
         // Child A will enter this branch

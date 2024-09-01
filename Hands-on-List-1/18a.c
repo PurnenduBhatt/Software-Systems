@@ -29,6 +29,7 @@ int main()
     lock.l_whence=SEEK_SET;
     lock.l_start=(train-1)*sizeof(db);
     lock.l_pid=getpid();
+    lock.l_len=sizeof(db);
     lseek(fd,(train-1)*sizeof(db),SEEK_SET);
     printf("PLease wait \n");
     fcntl(fd,F_SETLKW,&lock);

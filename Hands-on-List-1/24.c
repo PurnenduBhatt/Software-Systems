@@ -8,7 +8,7 @@ Date: 28th Aug, 2024.
 */
 #include <unistd.h>    
 #include <stdio.h>     
-
+#include<sys/types.h>
 void main()
 {
     pid_t childPid;
@@ -25,7 +25,7 @@ void main()
     {
         printf("Child PID: %d\n", getpid());
         printf("Putting child to sleep for 100s!\n");
-        sleep(30); 
+        sleep(100); 
         printf("Child PID after becoming orphan: %d\n", getpid());
         printf("Child is now awake!\n");
     }
